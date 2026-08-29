@@ -1,16 +1,37 @@
-## Hi there 👋
+# Syllik
 
-<!--
-**syllik/syllik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architect · Software Engineer · Open Source
 
-Here are some ideas to get you started:
+I build software, tools, and independent projects with a focus on simplicity, usability, and maintainable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Chipin
+
+Expense sharing and personal finance.
+
+Split expenses with friends and groups, track personal spending, and manage balances across multiple currencies.
+
+[View project →]([CHIPIN_REPO_URL])
+
+### YouTube Metadata Translator
+
+Tools for translating and publishing YouTube video metadata across multiple languages.
+
+Built to automate localization workflows while keeping translations reviewable before publishing.
+
+[View project →](YOUTUBE_META_TRANSLATOR_REPO_URL)
+
+## Elsewhere
+
+[YouTube](YOUTUBE_URL) · [Instagram](INSTAGRAM_URL)
+
+## Support
+
+If something I've built is useful to you and you'd like to support my work:
+
+[Support my work →](SUPPORT.md)
+
+## Contact
+
+[GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
