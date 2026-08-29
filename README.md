@@ -12,7 +12,7 @@ Expense sharing and personal finance.
 
 Split expenses with friends and groups, track personal spending, and manage balances across multiple currencies.
 
-[View project →]([CHIPIN_REPO_URL])
+[View project →](https://github.com/ChipIn-one/chipin-frontend)
 
 ### YouTube Metadata Translator
 
@@ -20,11 +20,11 @@ Tools for translating and publishing YouTube video metadata across multiple lang
 
 Built to automate localization workflows while keeping translations reviewable before publishing.
 
-[View project →](YOUTUBE_META_TRANSLATOR_REPO_URL)
+[View project →](https://github.com/syllik/Youtube-video-meta-translator)
 
 ## Elsewhere
 
-[YouTube](YOUTUBE_URL) · [Instagram](INSTAGRAM_URL)
+[YouTube](https://www.youtube.com/@plainsight37) · [Instagram](https://www.instagram.com/fly_lume/)
 
 ## Support
 
