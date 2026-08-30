@@ -1,6 +1,6 @@
 # Syllik
 
-Architect · Software Engineer · Open Source
+Architect ·Youtube Creator · Software Engineer · Human Being · Cosmopolitan · Antiglobalist
 
 I build software, tools, and independent projects with a focus on simplicity, usability, and maintainable systems.
 
