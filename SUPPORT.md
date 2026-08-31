@@ -1,8 +1,8 @@
-# Support
+# ❤️ Support
 
-Support is optional. If something I've built is useful to you, you can support my work through the payment rails below.
+Support is optional. If something I've built has been useful to you, you can support my work through the options below.
 
-## Exchange transfers
+## ⚡ Exchange transfers
 
 ### Binance Pay
 
@@ -12,9 +12,9 @@ ID: `164210440`
 
 Internal transfer / UID: `258922520`
 
-## Stablecoins
+## 💵 Stablecoins
 
-Send each token on the exact network shown.
+Send each token using the exact network shown.
 
 ### USDT — TRON (TRC-20)
 
@@ -40,18 +40,24 @@ Address: `BD1CxcTNuit1RE8ztaHcNp95T5B32pKDVdAJ84d87WdB`
 
 <img src="assets/support/solana-usdc-qr.jpg" alt="USDC on Solana QR code" width="180">
 
-## Other accepted EVM networks
+## 🔗 Other accepted EVM networks
 
-Ethereum-compatible / EVM wallet addresses use the familiar `0x...` format. I use the same wallet address for supported EVM-compatible networks:
+The same EVM wallet address is used across these supported networks:
 
 `0xfA4b5E521D39294908c7a26B08e668D556d9238c`
 
-Accepted networks: Ethereum, BNB Smart Chain, Base, Arbitrum One, Optimism, Polygon PoS, and Avalanche C-Chain.
+- Ethereum
+- BNB Smart Chain
+- Base
+- Arbitrum One
+- Optimism
+- Polygon PoS
+- Avalanche C-Chain
 
-Choose the correct network before sending. Token availability and contracts can differ between networks, so verify the asset and network first.
+## ⚠️ Before sending
 
-## Safety
+- Verify the asset and network before sending.
+- Cryptocurrency transfers are irreversible.
+- On EVM chains, the same `0x...` address does not mean that any network is interchangeable.
 
-Always verify both the asset and network before sending. Cryptocurrency transfers are irreversible. On EVM chains, the same `0x...` address does not remove the need to choose the correct network. Do not use an unsupported network just because the address has the `0x...` format.
-
-[Back to my GitHub profile →](README.md)
+[Back to profile →](README.md)
