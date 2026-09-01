@@ -34,4 +34,4 @@ If something I've built is useful to you and you'd like to support my work:
 
 ## ✉️ Contact
 
-[GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/syllik/) · [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
