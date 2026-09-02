@@ -1,6 +1,6 @@
 # Syllik
 
-Human Being · Cosmopolitan · Antiglobalist · Architect · YouTube Creator · Software Engineer
+Human Being · Cosmopolitan · Architect · YouTube Creator · Software Engineer
 
 I create software, tools, independent projects, and creative work with a focus on simplicity, usability, and maintainable systems.
 
