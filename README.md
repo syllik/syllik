@@ -4,23 +4,30 @@ Human Being · Cosmopolitan · Architect · YouTube Creator · Software Engineer
 
 I create software, tools, independent projects, and creative work with a focus on simplicity, usability, and maintainable systems.
 
-## 🧩 Projects
+## 📚 Documentation
 
-### Chipin
+[Explore workspace documentation →](docs/README.md)
 
-Expense sharing and personal finance.
+## 🧭 Workspace navigation
 
-Split expenses with friends and groups, track personal spending, and manage balances across multiple currencies.
-
-[View project →](https://github.com/ChipIn-one/chipin-frontend)
-
-### YouTube Metadata Translator
-
-Tools for translating and publishing YouTube video metadata across multiple languages.
-
-Built to automate localization workflows while keeping translations reviewable before publishing.
-
-[View project →](https://github.com/syllik/Youtube-video-meta-translator)
+- **Profile**
+  - [syllik/syllik](https://github.com/syllik/syllik) — profile and workspace navigation
+- **Products**
+  - **ChipIn**
+    - [ChipIn-one/chipin-frontend](https://github.com/ChipIn-one/chipin-frontend) — expense sharing and personal finance frontend
+    - [ChipIn-one/chipin-backend](https://github.com/ChipIn-one/chipin-backend) — expense sharing and personal finance backend — 🔒 Private
+- **Tools**
+  - **AI**
+    - [syllik/chatgpt-archive-cleanup](https://github.com/syllik/chatgpt-archive-cleanup) — ChatGPT archive cleanup tooling
+    - [syllik/codex-local-runner](https://github.com/syllik/codex-local-runner) — local Codex runner tooling — 🔒 Private
+  - **Content**
+    - [syllik/youtube-metadata-translator](https://github.com/syllik/youtube-metadata-translator) — YouTube metadata localization tooling
+- **Workflows**
+  - **AI**
+    - [syllik/ai-workflow](https://github.com/syllik/ai-workflow) — canonical AI workflow and context
+- **Guides**
+  - **Git**
+    - [syllik/gpg-signed-commits](https://github.com/syllik/gpg-signed-commits) — GPG-signed Git commit guide
 
 ## 🌐 Elsewhere
 
