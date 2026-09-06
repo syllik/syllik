@@ -26,7 +26,6 @@ I create software, tools, independent projects, and creative work with a focus o
   - **AI**
     - [syllik/chatgpt-archive-cleanup](https://github.com/syllik/chatgpt-archive-cleanup) — ChatGPT archive cleanup tooling
     - [syllik/codex-local-runner](https://github.com/syllik/codex-local-runner) — local Codex runner tooling — 🔒 Private
-    - [syllik/codex-local-runner-control](https://github.com/syllik/codex-local-runner-control) — private runner control plane — 🔒 Private
   - **Content**
     - [syllik/youtube-metadata-translator](https://github.com/syllik/youtube-metadata-translator) — YouTube metadata localization tooling
 - **Workflows**
