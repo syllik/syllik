@@ -4,27 +4,26 @@
 
 The canonical local root is `~/Desktop/Work`.
 
-```text
-~/Desktop/Work/
-├── profile/
-│   └── syllik/
-├── products/
-│   └── chipin/
-│       ├── chipin-frontend/
-│       └── chipin-backend/
-├── tools/
-│   ├── ai/
-│   │   ├── chatgpt-archive-cleanup/
-│   │   └── codex-local-runner/
-│   └── content/
-│       └── youtube-metadata-translator/
-├── workflows/
-│   └── ai/
-│       └── ai-workflow/
-└── guides/
-    └── git/
-        └── gpg-signed-commits/
-```
+## Workspace tree
+
+- `profile/`
+  - [`syllik/`](https://github.com/syllik/syllik)
+- `products/`
+  - `chipin/`
+    - [`chipin-frontend/`](https://github.com/ChipIn-one/chipin-frontend)
+    - [`chipin-backend/`](https://github.com/ChipIn-one/chipin-backend)
+- `tools/`
+  - `ai/`
+    - [`chatgpt-archive-cleanup/`](https://github.com/syllik/chatgpt-archive-cleanup)
+    - [`codex-local-runner/`](https://github.com/syllik/codex-local-runner)
+  - `content/`
+    - [`youtube-metadata-translator/`](https://github.com/syllik/youtube-metadata-translator)
+- `workflows/`
+  - `ai/`
+    - [`ai-workflow/`](https://github.com/syllik/ai-workflow)
+- `guides/`
+  - `git/`
+    - [`gpg-signed-commits/`](https://github.com/syllik/gpg-signed-commits)
 
 ## Structure rules
 
@@ -42,6 +41,6 @@ The canonical local root is `~/Desktop/Work`.
 
 Add a new project only after an explicit user decision. Create or move one
 independent repository into a purpose-first leaf directory, verify its
-canonical `origin`, branch and clean status, then update the profile navigation,
-this workspace document and the repository registry together. Do not merge Git
-histories, create a monorepo or add a submodule.
+canonical `origin`, branch and clean status, then update this workspace
+document and the repository registry together. Do not merge Git histories,
+create a monorepo or add a submodule.
