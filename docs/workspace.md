@@ -15,8 +15,7 @@ The canonical local root is `~/Desktop/Work`.
 ├── tools/
 │   ├── ai/
 │   │   ├── chatgpt-archive-cleanup/
-│   │   ├── codex-local-runner/
-│   │   └── codex-local-runner-control/
+│   │   └── codex-local-runner/
 │   └── content/
 │       └── youtube-metadata-translator/
 ├── workflows/
