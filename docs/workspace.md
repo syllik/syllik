@@ -16,7 +16,6 @@ The canonical local root is `~/Desktop/Work`.
   - `ai/`
     - [`chatgpt-archive-cleanup/`](https://github.com/syllik/chatgpt-archive-cleanup)
     - [`codex-local-runner/`](https://github.com/syllik/codex-local-runner)
-    - [`codex-local-runner-control/`](https://github.com/syllik/codex-local-runner-control)
   - `content/`
     - [`youtube-metadata-translator/`](https://github.com/syllik/youtube-metadata-translator)
 - `workflows/`
