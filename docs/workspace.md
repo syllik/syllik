@@ -2,7 +2,7 @@
 
 ## Canonical root
 
-The canonical local root is `~/Desktop/Work`.
+The canonical local root is `~/Desktop/WORK`.
 
 ## Workspace tree
 
