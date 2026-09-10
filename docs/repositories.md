@@ -11,7 +11,7 @@ AI routing state live in
 | ChipIn web frontend | [ChipIn-one/chipin-frontend](https://github.com/ChipIn-one/chipin-frontend) | `products/chipin/chipin-frontend` | Public | `main` | `dev` | Managed | Active | Not archived |
 | ChipIn backend and API | [ChipIn-one/chipin-backend](https://github.com/ChipIn-one/chipin-backend) | `products/chipin/chipin-backend` | 🔒 Private | `develop` | `develop` | Read-only | Active | Not archived |
 | ChipIn shared product/domain knowledge | [ChipIn-one/chipin-knowledge-base](https://github.com/ChipIn-one/chipin-knowledge-base) | `products/chipin/chipin-knowledge-base` | 🔒 Private | `main` | `main` | Read-only | Active | Not archived |
-| ChipIn organization GitHub coordination | [ChipIn-one/.github](https://github.com/ChipIn-one/.github) | `products/chipin/.github` | Public | `main` | `main` | Managed | Onboarding | Not archived |
+| ChipIn organization GitHub coordination | [ChipIn-one/.github](https://github.com/ChipIn-one/.github) | `products/chipin/.github` | Public | `main` | `main` | Managed | Active | Not archived |
 | ChatGPT archive cleanup tooling | [syllik/chatgpt-archive-cleanup](https://github.com/syllik/chatgpt-archive-cleanup) | `tools/ai/chatgpt-archive-cleanup` | Public | `main` | `main` | Managed | Active | Not archived |
 | Local Codex runner tooling | [syllik/codex-local-runner](https://github.com/syllik/codex-local-runner) | `tools/ai/codex-local-runner` | 🔒 Private | `master` | `master` | Managed | Onboarding | Not archived |
 | YouTube metadata localization tooling | [syllik/youtube-metadata-translator](https://github.com/syllik/youtube-metadata-translator) | `tools/content/youtube-metadata-translator` | Public | `main` | `main` | Managed | Active | Not archived |
