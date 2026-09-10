@@ -12,6 +12,8 @@ The canonical local root is `~/Desktop/WORK`.
   - `chipin/`
     - [`chipin-frontend/`](https://github.com/ChipIn-one/chipin-frontend)
     - [`chipin-backend/`](https://github.com/ChipIn-one/chipin-backend)
+    - [`chipin-knowledge-base/`](https://github.com/ChipIn-one/chipin-knowledge-base)
+    - [`.github/`](https://github.com/ChipIn-one/.github)
 - `tools/`
   - `ai/`
     - [`chatgpt-archive-cleanup/`](https://github.com/syllik/chatgpt-archive-cleanup)
