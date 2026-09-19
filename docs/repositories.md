@@ -8,6 +8,7 @@ AI routing state live in
 | Purpose | GitHub repository | Local path | Visibility | Default branch | Integration branch | AI access | AI status | GitHub state |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Profile and workspace navigation | [syllik/syllik](https://github.com/syllik/syllik) | `profile/syllik` | Public | `master` | `master` | Managed | Active | Not archived |
+| Personal tasks, plans, research and reminders | [syllik/life-ops](https://github.com/syllik/life-ops) | `personal/life-ops` | 🔒 Private | `master` | `master` | Managed | Active | Not archived |
 | ChipIn web frontend | [ChipIn-one/chipin-frontend](https://github.com/ChipIn-one/chipin-frontend) | `products/chipin/chipin-frontend` | Public | `main` | `dev` | Managed | Active | Not archived |
 | ChipIn backend and API | [ChipIn-one/chipin-backend](https://github.com/ChipIn-one/chipin-backend) | `products/chipin/chipin-backend` | 🔒 Private | `develop` | `develop` | Read-only | Active | Not archived |
 | ChipIn shared product/domain knowledge | [ChipIn-one/chipin-knowledge-base](https://github.com/ChipIn-one/chipin-knowledge-base) | `products/chipin/chipin-knowledge-base` | 🔒 Private | `main` | `main` | Read-only | Active | Not archived |
