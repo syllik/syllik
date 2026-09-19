@@ -8,6 +8,8 @@ The canonical local root is `~/Desktop/WORK`.
 
 - `profile/`
   - [`syllik/`](https://github.com/syllik/syllik)
+- `personal/`
+  - [`life-ops/`](https://github.com/syllik/life-ops)
 - `products/`
   - `chipin/`
     - [`chipin-frontend/`](https://github.com/ChipIn-one/chipin-frontend)
@@ -29,8 +31,8 @@ The canonical local root is `~/Desktop/WORK`.
 
 ## Structure rules
 
-- The workspace uses purpose-first top-level categories: `profile`, `products`,
-  `tools`, `workflows` and `guides`.
+- The workspace uses purpose-first top-level categories: `profile`, `personal`,
+  `products`, `tools`, `workflows` and `guides`.
 - Every leaf directory is an independent Git repository with its own `.git`,
   history, branches, remotes, visibility and workflow.
 - A leaf directory name matches its GitHub repository name.
