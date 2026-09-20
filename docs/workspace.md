@@ -23,6 +23,9 @@ The canonical local root is `~/Desktop/WORK`.
     - [`codex-local-runner/`](https://github.com/syllik/codex-local-runner)
   - `content/`
     - [`youtube-metadata-translator/`](https://github.com/syllik/youtube-metadata-translator)
+- `infrastructure/`
+  - `ai/`
+    - [`deep-dark-factory/`](https://github.com/syllik/deep-dark-factory)
 - `workflows/`
   - `ai/`
     - [`ai-workflow/`](https://github.com/syllik/ai-workflow)
@@ -33,7 +36,7 @@ The canonical local root is `~/Desktop/WORK`.
 ## Structure rules
 
 - The workspace uses purpose-first top-level categories: `profile`, `personal`,
-  `products`, `tools`, `workflows` and `guides`.
+  `products`, `tools`, `infrastructure`, `workflows` and `guides`.
 - Every leaf directory is an independent Git repository with its own `.git`,
   history, branches, remotes, visibility and workflow.
 - A leaf directory name matches its GitHub repository name.
