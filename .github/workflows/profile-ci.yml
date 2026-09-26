@@ -1,0 +1,47 @@
+name: Profile CI
+
+on:
+  pull_request:
+    branches:
+      - master
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: read
+
+jobs:
+  profile-ci:
+    name: profile-ci
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Check whitespace
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha || github.sha }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ "$BASE_SHA" = "0000000000000000000000000000000000000000" ]; then
+            git show --check --format= "$HEAD_SHA"
+          else
+            git diff --check "$BASE_SHA..$HEAD_SHA"
+          fi
+      - name: Check canonical navigation
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f docs/README.md
+          test -f docs/workspace.md
+          test -f docs/repositories.md
+          grep -Fq '(docs/README.md)' README.md
+          grep -Fq '(docs/workspace.md)' README.md
+          grep -Fq 'syllik/ai-workflow/workspace.yaml' docs/repositories.md
+          grep -Fq 'github.com/syllik/ai-workflow/blob/HEAD/FLOW.md' AI.md
