@@ -20,7 +20,7 @@ The canonical local root is `~/Desktop/WORK`.
 - `tools/`
   - `ai/`
     - [`chatgpt-archive-cleanup/`](https://github.com/syllik/chatgpt-archive-cleanup)
-    - [`codex-local-runner/`](https://github.com/syllik/codex-local-runner)
+    - [`codex-local-runner-archive/`](https://github.com/syllik/codex-local-runner-archive) — archived MIT reference for Deep Dark Factory; excluded from executable AI routing
   - `content/`
     - [`youtube-metadata-translator/`](https://github.com/syllik/youtube-metadata-translator)
 - `infrastructure/`
@@ -44,6 +44,17 @@ The canonical local root is `~/Desktop/WORK`.
   used.
 - Repositories outside the approved mapping are excluded from this workspace
   documentation and are not moved or mutated by this structure.
+
+## Retired runner
+
+The former `tools/ai/codex-local-runner` checkout and local runtime were removed
+on 2026-10-10. Its private original repository is archived. The public source
+archive above preserves unfinished work and
+[reuse lessons](https://github.com/syllik/codex-local-runner-archive/blob/master/docs/DDF-LESSONS.md)
+for Deep Dark Factory; it is not an active workspace execution target.
+`codex-local-runner-control` was already deleted on 2026-09-06. Before reusing
+archived code, resolve its
+[documented dependency vulnerabilities](https://github.com/syllik/codex-local-runner-archive/blob/master/docs/DEPENDENCY-AUDIT.md).
 
 ## Adding a project safely
 
