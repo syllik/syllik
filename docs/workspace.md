@@ -12,7 +12,7 @@ The canonical local root is `~/Desktop/WORK`.
   - [`life-ops/`](https://github.com/syllik/life-ops)
   - [`life-ops-bot/`](https://github.com/syllik/life-ops-bot)
 - `products/`
-  - [`Zero-Touch-DCA/`](https://github.com/syllik/Zero-Touch-DCA) — private portfolio/DCA product, AI onboarding pending
+  - [`Zero-Touch-DCA/`](https://github.com/syllik/Zero-Touch-DCA) — private portfolio/DCA product, managed by canonical AI workflow
   - `chipin/`
     - [`chipin-frontend/`](https://github.com/ChipIn-one/chipin-frontend)
     - [`chipin-backend/`](https://github.com/ChipIn-one/chipin-backend)
