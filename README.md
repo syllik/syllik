@@ -1,27 +1,27 @@
 # Syllik
 
-Human Being · Cosmopolitan · Architect · YouTube Creator · Software / Hardware Engineer
+Human Being · Cosmopolitan · Architect
 
-I create software, tools, independent projects, and creative work with a focus on simplicity, usability, and maintainable systems.
+I'm Mikhail Douhun. I've been around computers since I was three: taking them apart, fixing them, building them. Today I design and build software and tools, with a focus on simplicity, usability, and maintainable systems.
 
-## 🌐 Elsewhere
+## What I love
 
-[YouTube](https://www.youtube.com/@plainsight37) · [Instagram](https://www.instagram.com/fly_lume/)
+- Learning.
+- Traveling, exploring the world, and getting to know people.
+- Machines and how they work.
+- Systems that stay simple as they grow.
+- Markets and macroeconomics.
+- Making videos and sound: [The Goodness](https://www.youtube.com/@plainsight37).
 
-## ✉️ Contact
+## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/syllik/) · [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/syllik/) · [YouTube](https://www.youtube.com/@plainsight37) · [Instagram](https://www.instagram.com/fly_lume/) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
-## 📚 Documentation
+## Documentation
 
-[Explore workspace documentation →](docs/README.md)
+- [Workspace documentation](docs/README.md)
+- [Workspace layout](docs/workspace.md)
 
-## 🧭 Workspace
+## Support
 
-[Explore workspace →](docs/workspace.md)
-
-## ❤️ Support
-
-If something I've built is useful to you and you'd like to support my work:
-
-[Support my work →](SUPPORT.md)
+If something I've built is useful to you and you'd like to support my work: [Support my work](SUPPORT.md).
