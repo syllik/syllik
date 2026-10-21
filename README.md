@@ -6,6 +6,8 @@ I'm Michael, based in Tbilisi. I've been around computers since I was three: tak
 
 ## What I love
 
+- Learning.
+- Traveling, exploring the world, and getting to know people.
 - Machines and how they work.
 - Systems that stay simple as they grow.
 - Markets and macroeconomics.
