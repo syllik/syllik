@@ -2,7 +2,7 @@
 
 Human Being · Cosmopolitan · Architect
 
-I'm Michael, based in Tbilisi. I've been around computers since I was three: taking them apart, fixing them, building them. Today I design and build software and tools, with a focus on simplicity, usability, and maintainable systems.
+I'm Mikhail Douhun. I've been around computers since I was three: taking them apart, fixing them, building them. Today I design and build software and tools, with a focus on simplicity, usability, and maintainable systems.
 
 ## What I love
 
