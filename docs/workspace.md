@@ -20,7 +20,7 @@ The canonical local root is `~/Desktop/WORK`.
     - [`.github/`](https://github.com/ChipIn-one/.github)
 - `tools/`
   - `ai/`
-    - [`chatgpt-archive-cleanup/`](https://github.com/syllik/chatgpt-archive-cleanup)
+    - [`chatgpt-archive-cleanup/`](https://github.com/syllik/chatgpt-archive-cleanup) — archived on 2026-10-22; excluded from executable AI routing
     - [`codex-local-runner-archive/`](https://github.com/syllik/codex-local-runner-archive) — archived MIT reference for Deep Dark Factory; excluded from executable AI routing
   - `content/`
     - [`youtube-metadata-translator/`](https://github.com/syllik/youtube-metadata-translator)
