@@ -8,12 +8,12 @@ AI routing state live in
 | Purpose | GitHub repository | Local path | Visibility | Default branch | Integration branch | AI access | AI status | GitHub state |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Profile and workspace navigation | [syllik/syllik](https://github.com/syllik/syllik) | `profile/syllik` | Public | `master` | `master` | Managed | Active | Not archived |
-| Personal tasks, plans, research and reminders | [syllik/life-ops](https://github.com/syllik/life-ops) | `personal/life-ops` | 🔒 Private | `master` | `master` | Managed | Active | Not archived |
-| Telegram interface for Life Ops | [syllik/life-ops-bot](https://github.com/syllik/life-ops-bot) | `personal/life-ops-bot` | Public | `master` | `master` | Managed | Onboarding | Not archived |
-| ChipIn web frontend | [ChipIn-one/chipin-frontend](https://github.com/ChipIn-one/chipin-frontend) | `products/chipin/chipin-frontend` | Public | `main` | `dev` | Managed | Active | Not archived |
+| Personal tasks, plans, research and reminders; Telegram bot in `bot/` | [syllik/life-ops](https://github.com/syllik/life-ops) | `personal/life-ops` | 🔒 Private | `master` | `master` | Managed | Active | Not archived |
+| Telegram interface for Life Ops | [syllik/life-ops-bot](https://github.com/syllik/life-ops-bot) | `personal/life-ops-bot` | Public | `master` | — | Not registered | Merged into `syllik/life-ops` | Archived |
+| ChipIn web frontend | [ChipIn-one/chipin-frontend](https://github.com/ChipIn-one/chipin-frontend) | `products/chipin/chipin-frontend` | Public | `master` | `master` | Managed | Active | Not archived |
 | ChipIn backend and API | [ChipIn-one/chipin-backend](https://github.com/ChipIn-one/chipin-backend) | `products/chipin/chipin-backend` | 🔒 Private | `develop` | `develop` | Read-only | Active | Not archived |
-| ChipIn shared product/domain knowledge | [ChipIn-one/chipin-knowledge-base](https://github.com/ChipIn-one/chipin-knowledge-base) | `products/chipin/chipin-knowledge-base` | 🔒 Private | `main` | `main` | Read-only | Active | Not archived |
-| ChipIn organization GitHub coordination | [ChipIn-one/.github](https://github.com/ChipIn-one/.github) | `products/chipin/.github` | Public | `main` | `main` | Managed | Active | Not archived |
+| ChipIn shared product/domain knowledge | [ChipIn-one/chipin-knowledge-base](https://github.com/ChipIn-one/chipin-knowledge-base) | `products/chipin/chipin-knowledge-base` | 🔒 Private | `master` | `master` | Read-only | Active | Not archived |
+| ChipIn organization GitHub coordination | [ChipIn-one/.github](https://github.com/ChipIn-one/.github) | `products/chipin/.github` | Public | `master` | `master` | Managed | Active | Not archived |
 | Private Binance DCA and portfolio product (documentation-stage) | [syllik/Zero-Touch-DCA](https://github.com/syllik/Zero-Touch-DCA) | `products/Zero-Touch-DCA` | 🔒 Private | `master` | `master` | Managed | Active | Not archived |
 | ChatGPT archive cleanup tooling | [syllik/chatgpt-archive-cleanup](https://github.com/syllik/chatgpt-archive-cleanup) | `tools/ai/chatgpt-archive-cleanup` | Public | `main` | — | Not registered | Retired | Archived |
 | Historical MIT runner source for Deep Dark Factory | [syllik/codex-local-runner-archive](https://github.com/syllik/codex-local-runner-archive) | `tools/ai/codex-local-runner-archive` | Public | `master` | — | Not registered | Retired reference | Archived |
