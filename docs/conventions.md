@@ -7,8 +7,9 @@
 - Adding a project requires updates to profile navigation, `workspace.md` and
   the repository registry.
 - Documentation filenames and technical identifiers use English.
-- Semantic emoji are navigation markers in user-facing guides only, not in
-  workspace registry pages.
+- Semantic emoji are navigation markers in user-facing product guides only.
+  Do not add them to workspace registry pages (`docs/workspace.md`,
+  `docs/repositories.md`) or to this profile's `AGENTS.md`.
 - Never store secrets, credentials, tokens, private keys or `.env` contents.
 - Archive and reference repositories are included only after an explicit user
   decision.
