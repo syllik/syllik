@@ -9,3 +9,8 @@ Canonical AI routing:
 GitHub Issue/PR entry never bypasses this route; use GitHub records only, no auto-discovery; legacy contexts are migration-only.
 Canonical root: ~/Desktop/WORK
 <!-- ai-workflow:agents-routing:end -->
+
+## Documentation
+
+- User documentation contract: `workflow-policy`.
+- Adding a project requires a same-change update to `docs/workspace.md` and `docs/repositories.md`. Do not add semantic emoji section markers to those files or to this `AGENTS.md`.
